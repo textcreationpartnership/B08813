@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The confession and execution of the five prisoners that suffered at Tyburn, on Friday the 4th of June, 1680. Viz. Thomas Newell, John Biggs, [bracket] both guilty of burglary, and also of breaking prison lately out of Newgate. John Eakins, one of the same crew for burglary. George D. a marshals man, for murdering a child. And Richard Spykeman, for burglary. : With an account of their behaviour after condemnation, and at the place of execution.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08813</idno>
+            <idno type="OCLC"> 80922329</idno>
+            <idno type="STC">Wing C5749</idno>
+            <idno type="STC">ESTC R213519</idno>
+            <idno type="EEBO-CITATION">80922329</idno>
+            <idno type="OCLC">ocm 80922329</idno>
+            <idno type="VID">191843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191843)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2892:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The confession and execution of the five prisoners that suffered at Tyburn, on Friday the 4th of June, 1680. Viz. Thomas Newell, John Biggs, [bracket] both guilty of burglary, and also of breaking prison lately out of Newgate. John Eakins, one of the same crew for burglary. George D. a marshals man, for murdering a child. And Richard Spykeman, for burglary. : With an account of their behaviour after condemnation, and at the place of execution.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Newell, Thomas, d. 1680.</term>
+               <term>Biggs, John, d. 1680.</term>
+               <term>Eakins, John, d. 1680.</term>
+               <term>D., George, d. 1680.</term>
+               <term>Spykeman, Richard, d. 1680.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Thieves --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="execution_account">
+            <pb facs="tcp:191843:1"/>
+            <pb facs="tcp:191843:1" rendition="simple:additions"/>
+            <head>THE CONFESSION and EXECUTION OF THE Five PRISONERS That Suffered at <hi>TYB<g ref="char:V">Ʋ</g>RN,</hi> On Friday the 4th of <hi>June,</hi> 1680. </head>
+            <head>
+               <list>
+                  <head>VIZ.</head>
+                  <item>
+                     <list>
+                        <item>
+                           <hi>Thomas Newell,</hi>
+                        </item>
+                        <item>
+                           <hi>John Biggs,</hi>
+                        </item>
+                     </list> Both guilty of Burglary, and alſo of breaking Priſon lately out of <hi>Newgate.</hi>
+                  </item>
+                  <item>
+                     <hi>John Eakins,</hi> One of the ſame Crew for Burglary.</item>
+                  <item>
+                     <hi>George D.</hi> A Marſhals man, for Murdering a Child.</item>
+                  <item>AND <hi>Richard Spykeman,</hi> for Burglary.</item>
+               </list>
+            </head>
+            <head>With an Account of their Behaviour after Condemnation, and at the place of Execution.</head>
+            <p>THe Seſſions for <hi>London</hi> and <hi>Middleſex</hi> began <hi>May</hi> the 26th, and con<g ref="char:EOLhyphen"/>tinued to the 28th, where were in all Condemned fourteen perſons, four Women and ten Men; all which women were by a Jury of Matrons found ſeverally to be quick with Child, and ſo Reprieved till they were Delivered; and of the men five alſo, who had not ſo notoriouſly offended, as to be totally excluded from Mercy, were put by and exempted from the Severity of Juſtice.</p>
+            <p>
+               <hi>John Newel</hi> and <hi>John Biggs</hi> had formerly been notoriouſly Guilty of divers Burglaries, and particularly of breaking out of the Goal of <hi>Newgate,</hi> and be<g ref="char:EOLhyphen"/>ing on new Facts Impriſoned at St. <hi>Albans,</hi> they were thence removed; and had not the confidence to plead otherwiſe than Guilty, as well knowing there were ſo many Indictments againſt them, as would certainly do their buſineſs.</p>
+            <p>
+               <hi>John Eakins</hi> was one of the ſame Crew, an old Malefactor, who ſo oft had received Mercy, that now he could expect or hope for it no more.</p>
+            <p>
+               <hi>Richard Spykeman</hi> was alſo Condemned for Burglary, having run through the whole courſe or ſtage of Villany. He began firſt with <hi>Dear-ſtealing,</hi> and as the leaſt Rogueries tranſacted with Impunity, prompt on to the <hi>greateſt,</hi> and ſingle, ſmall, vicious Attempts grow up in time to be perfect Habits; ſo he after various over-paſt Crimes, having been a Water-pad, <hi>&amp;c.</hi> became ſo far hardned, as not to ſtick at any nefarious Acts whatſoever; and therefore as an
+<pb n="2" facs="tcp:191843:2"/> 
+               <hi>Incorrigible</hi> Offender, was now thought fit to be <hi>mow'd</hi> down by the <hi>Scythe</hi> of Juſtice.</p>
+            <p>
+               <hi>George D.</hi> was an Officer belonging to the <hi>Marſhals-Court:</hi> his crime, for killing the Child of a poor Man; (whom he Arreſted) becauſe it cryed out to ſee its Father miſ-uſed. At the time of his Condemnation, he ſeemed very <hi>remorſeful</hi> for his Offence, but afterwards appeared (as ſome ſuppoſed) more <hi>expectant</hi> and ſollicitous for a <hi>Temporal,</hi> than any other <hi>Pardon.</hi>
+            </p>
+            <p>
+               <hi>The ſubſtance of the ſeveral Crimes as were found at the Seſſions were as follows.</hi>
+            </p>
+            <p>A remarkable Tryal was about the Murder of a Conſtable at the <hi>Armitage-ſtairs,</hi> for which a poor Waterman ſtood Indicted; there were abundance of Witneſſes examined, and the Tryal was very tedious. But the ſum of the matter was to this effect: Some <hi>Scotchmen,</hi> half a dozen or more in all, belonging to a Ship that lay in the River, having been on ſhore, and 'tis probable taking plentiful Cups, as Sailors uſe, about nine of the Clock at night were returning to their Veſſel; and in order to get to their own Boat, ſome of them ſtept through a Boat of the Priſoners, in which there was a Boy, whom a <hi>Scotch</hi> boy of this com<g ref="char:EOLhyphen"/>pany either trod upon or affronted, which made him ſtrike him; and the Scotchmen as faſt fell on the <hi>Engliſh-boy,</hi> who ran and called his Maſter the Priſoner, and ſo the Fray encreaſed: to quell which, the now Priſoner called the Conſtable living juſt by, and who was his intimate Friend; for at his houſe he uſed commonly to leave ſeveral Tackling belonging to his Boat, and other offices of Kindneſs frequently paſs'd between them. But ſo it hapned in the Scuffle, it being pretty dark, the Con<g ref="char:EOLhyphen"/>ſtable's Brains were beat out, ſuppoſed to be done with one of their Poies, or Hooks, which they uſe with their Boats. The <hi>Scotchmen</hi> ſhifted for themſelves and got away, and a perſon that was there al<g ref="char:EOLhyphen"/>ledged, that the now Priſoner ſtruck the fatal Blow; but beſides that there was no former Malice, ſo 'twas a moſt unlikely thing, that he ſhould go to hurt one that was his Friend, and came thither at his requeſt to aſſiſt him. So that upon the whole matter, it was believed ſuch witneſs might poſſibly be miſtaken, in ſo great an Hurry and Con<g ref="char:EOLhyphen"/>fuſion; ſo that the Waterman, who had the repute of an honeſt, civil, quiet man amongſt his Neighbours, was Acquitted.</p>
+            <p>A Perſon was Convicted for a Robbery in <hi>Middleſex,</hi> committed in a Victualling-houſe that ſtood alone, remote from Neighbours, whither the Priſoner, for ſome time before the Exploit was committed, uſed for ſome days frequently to reſort, and ſeem'd a very civil Gueſt: but ha<g ref="char:EOLhyphen"/>ving laid the Deſign, he and two or three more of his Companions came one Evening, about 9 or 10 of the Clock, before the Doors were ſhut, there being no body there but the Woman of the houſe and her Maid; where preſently ſwearing in a furious manner, they begun to demand her Keys, and this Fellow held the Woman below, whilſt the reſt went up ſtairs and ranſackt her Trunks, <hi>&amp;c.</hi> taking away in Money and Goods to the value of near Twenty Pounds; and then binding the Woman and her Servant, went away with the Booty. The Woman, whilſt the reſt were making havock above, ſeeing her ſelf like to be quite undone, wept bitterly, and ſaid to the now Priſoner who held her below, <hi>Alas, Sir, I did not imagine that you would have dealt thus by me!</hi> To which all the Anſwer the hard-hearted Villain returned, was with a ſcornful Smile, <hi>No indeed Landlady, I believe you did not.</hi> He had then a Perriwig on, and other Cloaths, but the Woman knew him by
+<pb n="3" facs="tcp:191843:2"/> his Voice; and the Maid ſwore directy that he was the man: And ſo he was found Guilty.</p>
+            <p>An old fellow, one of thoſe that broke out of the Goal, and upon their retaking at St. <hi>Albons</hi> being brought up, were publickly expoſed with Collars about their Necks, to the view of the people without <hi>Newgate,</hi> having now ſeveral Indictments againſt him; when he was required to plead to the firſt, ſaid, He was Guilty of that and whatſoever elſe ſhould be brought againſt him; and being thereupon asked, Why he would plead ſo unadviſedly, and whether he had a minde to caſt away his Life, anſwered, That he were as good caſt it away himſelf, for he was ſure he ſhould be Hang'd. And indeed he had no reaſon to promiſe himſelf a better Deſtiny, for he had been a notorious Houſebreaker, and the occaſion of many other mens ruine, by his bad Example, and per<g ref="char:EOLhyphen"/>nicious Counſel and Enticement.</p>
+            <p>A kind of Diſtracted Woman was Arraigned for ſtealing a great ſum of Money; but ſhe ſeemed to take no notice of, nor underſtand any thing that was ſaid againſt her; and the Officers of the Jail affirmed, that ever ſince her Commitment, ſhe appeared to them as a perſon Lunatick, or not <hi>compos mentis;</hi> and therefore in reſpect of her condition ſhe was ſet aſide.</p>
+            <p>A young man was found guilty of a Felony and Burghlary in <hi>London,</hi> breaking into an Houſe that he was well acquainted at in the night, and ſtealing thence a Gold Watch and other things, to the value of one hun<g ref="char:EOLhyphen"/>dred pounds and upwards.</p>
+            <p>A Bailey belonging to the Marſhals-Court, going to Arreſt a poor man for a Debt of ſeven ſhillings, and according to the uſual Cruelty and bar<g ref="char:EOLhyphen"/>barouſneſs of thoſe ſavage Cattle, beating and dragging him along; a Child of the mans, ſeeing her Father ſo uſed, cryed out: whereupon this brui<g ref="char:EOLhyphen"/>tiſh fellow turn'd about and ſtruck the poor Child a blow on the head with a great Cudgel, ſo furiouſly, that a Gentleman that ſaw it, teſtified it was enough to have knockt down the ſtouteſt man. However, the Child was for the preſent recovered to life, and by the help of a Surgeon, the Wound in ſome time ſeemed to be healed, but ſtill ſhe complained of her Head, and ſeemed to languiſh ever after, and not long after dyed; ſo that it was concluded he was the occaſion of her death, and accordingly the Jury found him guilty.</p>
+            <p>An Ale-houſe-keeper was likewiſe Indicted for killing a poor weak man, whom 'twas ſaid he kickt; but the proof not being poſitive, and the party deceaſed having long been known to be very infirm, he was ac<g ref="char:EOLhyphen"/>quitted.</p>
+            <p>Two Shop-lifts were Convicted of Felony for ſtealing of three pie<g ref="char:EOLhyphen"/>ces of Damask Silk out of a ſhop in <hi>London,</hi> where they came pretending to buy Diaper, and whilſt the man went to reach it, they got the ſilk; but he ſoon miſſed it, and purſuing them, they according to the uſual tricks of Practitioners in that Myſtery were ſeen to drop it.</p>
+            <p>A Woman that came to be a Servant in a Gentlemans houſe, before ſhe had been there five days, took an opportunity to Rob them of a conſiderable parcel of Plate and ſome Money, and carried it down into the Countrey by a Carrier; being diſcovered, was now Indicted to<g ref="char:EOLhyphen"/>gether with the ſaid Carrier, and ſhe was found Guilty: but the Car<g ref="char:EOLhyphen"/>rier being a very honeſt man, and nothing Criminal proved againſt him, was deſervedly Acquitted.</p>
+            <p>Two perſons were charg'd with High-Treaſon for Coyning, and ſome ſuſpicious Circumſtances were made out; but if they deſign'd any ſuch thing, they were but Bunglers at the Trade; and there being no punctual Proof, they were found Not Guilty.</p>
+            <pb n="4" facs="tcp:191843:3"/>
+            <p>Let theſe poor wretches <hi>Woe</hi> be our <hi>warning,</hi> and their <hi>Execution</hi> every Readers <hi>Admonition.</hi> Conſider I pray! with what terrour did theſe miſerable Cri<g ref="char:EOLhyphen"/>minals ſtand at the <hi>Old-Bailey-Bar;</hi> their <hi>hands</hi> even trembling whilſt <hi>lift</hi> up for Tryal, and their very <hi>lips</hi> quaking, whilſt againſt the Dictates of their Con<g ref="char:EOLhyphen"/>ſciences they pleaded <hi>Not Guilty.</hi> Their Countenance Condemning them before the <hi>Judge,</hi> and their Fears, (puſht on by Conſciouſneſs of their <hi>guilt) Executing</hi> them both <hi>before,</hi> and more ſeverely than the <hi>Hang<g ref="char:EOLhyphen"/>man.</hi> Yet this Judge is but a man, that muſt quick<g ref="char:EOLhyphen"/>ly dye himſelf; that Sentence of Death which he can pronounce, is already paſſed by Nature upon the moſt innocent. That act of death which the Law inflicteth on theſe men, is but momentary, and who does not know whether himſelf ſhall not dye more painful than any of theſe?</p>
+            <p>With what horrour, O God! ſhall each guilty <hi>Soul</hi> ſtand before his dreadful Tribunal, in the day of the great <hi>Aſſiſes</hi> of the world, that has not an intereſt (on <hi>Goſpel-terms)</hi> in thy Chriſt and our Jeſus? whilſt there is the unapproachable preſence of an infinite Majeſty to daunt him, a fierce and clamarous Con<g ref="char:EOLhyphen"/>ſcience to give Evidence againſt him, Legions of ter<g ref="char:EOLhyphen"/>rible Devils waiting upon him, a gulf of unquencha<g ref="char:EOLhyphen"/>ble fire ready to receive him; whilſt the glory of the <hi>Judge</hi> is no leſs confounding, than the cruelty of the <hi>Tormenters,</hi> where the <hi>Sentance</hi> is unavoidable, and the <hi>Execution</hi> everlaſting. Why then, (to every Reader be it ſpoken) do not theſe <hi>Terrors</hi> of thee our <hi>God,</hi> make us wiſe to hold a private <hi>Seſſions</hi> upon our own Souls and Actions? that being acquitted by our own Hearts, we may not be Condemned by thee, and being judged by our ſelves, we may not be Condem<g ref="char:EOLhyphen"/>ned, though <hi>by,</hi> yet at leaſt not <hi>with,</hi> the world:</p>
+            <div rend="small" type="afterword">
+               <p>As for <hi>Walter Gilman</hi> who was found guilty on two Indictments by the <hi>Middleſex</hi> Jury, and about whom one of the <hi>London</hi> Jury was Confin'd, for not finding him guilty of ſtealing a Watch, he was Reprieved.</p>
+               <p>The Five before-mentioned were carried in two Carts, Three in the firſt, and Two in the laſt, of whom the Marſhals man ſeemed to be very penitent.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:191843:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
